@@ -8,9 +8,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+        <div style="">
             <asp:button runat="server" ID="Show_Result" text="Show Result" OnClick="Show_Result_Click"/>
-            <asp:Image ID="Image1" runat="server" />
+            <asp:Image ID="Image1" runat="server" Height="300px" Width="300px"/>
         </div>
     </form>
 </body>

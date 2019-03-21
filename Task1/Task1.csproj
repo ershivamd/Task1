@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Assignment.aspx" />
     <Content Include="Image\beach-calm-clouds-457882.jpg" />
+    <Content Include="Image\daylight-forest-grass-247600.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
